@@ -27,8 +27,8 @@
 
 <p align="center">
 <a href="https://github.com/siva2251">
-  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=siva2251&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
- <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com?user=siva2251&theme=chartreuse-dark"/>
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=siva2251&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com?user=siva2251&theme=gotham&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 <h1> </h1>
