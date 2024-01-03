@@ -38,6 +38,6 @@
 <!-- Connect with Me -->
 ## 🤝 Connect with Me
 <p align="left">
-<a href="mailto:sivanesh2251@gmail.com"><img src="https://img.shields.io/badge/-sivanesh2251@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/cmd_line_junkie?igshid=NzZlODBkYWE4Ng=="><img src="https://img.shields.io/badge/-@wolverine____official-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:sivanesh2251@gmail.com"><img src="https://img.shields.io/badge/-sivanesh2251@gmail.com-000000?style=flat&logo=Gmail&logoColor=red"/></a>
+<a href="https://www.instagram.com/wolverine____official/?igshid=NzZlODBkYWE4Ng=="><img src="https://img.shields.io/badge/-@wolverine____official-000000?style=flat&logo=Instagram&logoColor=red"/></a>
 
