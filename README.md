@@ -1,7 +1,7 @@
 <!-- Introduction -->
 # Hey there! 👋 I'm Siva
 <p align="center">
-  <a href="https://github.com/siva2251/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=&weight=10000&duration=1500&pause=1000&color=961EB6&center=true&vCenter=true&random=true&width=435&lines=Computer+Science+Undergraduate;Full+Stack+Developer;Open+Source+Evangelist;"></a>
+  <a href="https://github.com/siva2251/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=&weight=10000&duration=1500&pause=1000&color=33FFA5&center=true&vCenter=true&random=true&width=435&lines=Computer+Science+Undergraduate;Full+Stack+Developer;Open+Source+Evangelist;"></a>
 </p>
 
 <!-- Tech Stack -->
